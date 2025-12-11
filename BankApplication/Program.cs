@@ -10,7 +10,7 @@
 //{
 //    Console.WriteLine(account.Withdraw(200));
 //}
-
+Console.WriteLine("");
 
 public class DebitAccount : BankAccount
 {
