@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankApplication", "BankAppl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseTutorial", "DatabaseTutorial\DatabaseTutorial.csproj", "{B7E3AB8C-3B1F-4EC0-B801-BD51DAF912B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqTutorial", "LinqTutorial\LinqTutorial.csproj", "{439DB1EB-A970-4258-B1EA-AEF5D7DDA339}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B7E3AB8C-3B1F-4EC0-B801-BD51DAF912B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7E3AB8C-3B1F-4EC0-B801-BD51DAF912B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7E3AB8C-3B1F-4EC0-B801-BD51DAF912B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{439DB1EB-A970-4258-B1EA-AEF5D7DDA339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439DB1EB-A970-4258-B1EA-AEF5D7DDA339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439DB1EB-A970-4258-B1EA-AEF5D7DDA339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439DB1EB-A970-4258-B1EA-AEF5D7DDA339}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
